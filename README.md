@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pa1vasanth
-- 👀 I’m interested in Machine learning specially regression models
+- 👀 I’m interested in Machine learning algorithms specially regression models
 - 🌱 I’m currently doing masters in Data science and analytics
 - 💞️ I’m looking to collaborate on ML and Data science
 - 📫 How to reach me ...
